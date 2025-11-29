@@ -26,7 +26,7 @@ A modern, full-stack inventory management system built with Next.js 14, TypeScri
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
+   git clone [repository-url]
    cd invento
    ```
 
